@@ -4,4 +4,4 @@ I hve the concepts | notebooks | and dataset on which I have learned implenting 
 
 regards,
 Faizan Shakeel
-Data Scientist (Domain: FinTech, EduTech, BioTech-healthcare; Exploring: Entertainment, Arts, Biology and defence and telicommunication) 
+Data Scientist (Domain: FinTech, EduTech, BioTech-healthcare; Exploring: Entertainment, Arts, Biology and defence and telecommunication) 
