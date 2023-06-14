@@ -1,4 +1,4 @@
-# Learning Machine Learning: Learning phase commits
+# Machine Learning: Learning phase commits
 I hve the concepts | notebooks | and dataset on which I have learned implenting the machine learning model 
 
 
